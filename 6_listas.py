@@ -5,7 +5,7 @@ print(lista_numeros[1])
 print(lista_numeros[2])
 
 
-#Pdemos Manipular Listas:
+#Podemos Manipular Listas:
 
 lista_numeros = [1, 2, 3]
 
