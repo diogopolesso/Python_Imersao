@@ -12,4 +12,3 @@ peso = 80.5
 print(nome)
 print(idade)
 print(peso)
-
