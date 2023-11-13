@@ -38,3 +38,4 @@ print( "total", len(numeros))
 print( "menor valor", min(numeros))
 print( "maior valor", max(numeros))
 
+
