@@ -27,3 +27,8 @@
 ## Metoddos com Listas:
 
 ![Metodos de Listas](https://github.com/diogopolesso/Python_Imersao/assets/111795220/8f2c93e4-3df9-4972-a00a-d5512befb4f3)
+
+
+## import os - Variavel do Python
+
+![import os (variavel do python)](https://github.com/diogopolesso/Python_Imersao/assets/111795220/55ff0666-0829-4dad-8e21-6b6763d19315)
